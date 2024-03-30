@@ -27,6 +27,9 @@
         padding-top: 40px;
     }
 
+    .about_section {
+        display: none;
+    }
     .main-logo {
         width: 110px
     }
